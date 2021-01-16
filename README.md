@@ -27,6 +27,9 @@ Project is based on python 3 and following libraries are used:
 
 2. /data: folder with the used dataset downloaded from kaggle 
 
+## Blog post
+https://dagrubi.medium.com/seattle-air-bnb-data-analysis-e50d6ba469c6
+
 ## Acknowledgments
 
 - Udacity DAta Scientist Nanodegree program
